@@ -1,0 +1,17 @@
+.button{
+    background-color: rgb(103, 103, 206);
+    text-align: left;
+    }
+    
+    .list{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .list ul li {
+        list-style: none;
+        margin: 42px;
+        text-align: center;
+    }
+    
